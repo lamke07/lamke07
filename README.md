@@ -8,6 +8,10 @@ Previous studies:
 - MSc Statistical Science, University of Oxford
 - BSc Mathematics, Operational Research, Statistics, Economics, University of Warwick
 
+Previous work:
+- Research Assistant at School of Public Health, Imperial College London
+- Summer Analyst in Global Markets, BNP Paribas London
+
 <!---
 lamke07/lamke07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
