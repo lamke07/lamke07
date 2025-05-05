@@ -9,6 +9,7 @@ Previous studies:
 - BSc Mathematics, Operational Research, Statistics, Economics, University of Warwick
 
 Previous work:
+- Summer Associate in Fixed Income (Quantitative Finance Strategist), Morgan Stanley Montréal
 - Research Assistant at School of Public Health, Imperial College London
 - Summer Analyst in Global Markets, BNP Paribas London
 
